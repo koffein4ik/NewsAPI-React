@@ -39,6 +39,6 @@
     "build": "webpack --mode development"
   },
   "keywords": [],
-  "author": "Andrew Kuryan",
+  "author": "Shuliak Roman",
   "license": "ISC"
 }
